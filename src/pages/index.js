@@ -13,6 +13,7 @@ export default function index() {
             <p>Web developer based in Kuşadası</p>
             <Link to="/portfolio" className={styles.btn}>My projects</Link>
         </div>
+        <img src="/banner.png" alt="site banner" style={{maxWidth: "100%"}}></img>
         </section>
         </Layout>
     )
