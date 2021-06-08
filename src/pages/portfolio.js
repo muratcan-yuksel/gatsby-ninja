@@ -1,13 +1,13 @@
 import React from 'react'
 import Layout from "../components/Layout"
 
-export default function index() {
+
+export default function portfolio() {
     return (
         <Layout>
         <div>
-            <h3>Design</h3>
-            <h4>Develop & Deploy</h4>
-            <p>Web developer based in Kuşadası</p>
+              <h3>Portfolio</h3>
+            <h3>Projects I've created</h3>
         </div>
         </Layout>
     )
