@@ -17,7 +17,7 @@ export default function Navbar() {
 
     // `)
 //desctructure data query
-const{title}= data.site.siteMetadata
+// const{title}= data.site.siteMetadata
 
     return (
        <nav>
