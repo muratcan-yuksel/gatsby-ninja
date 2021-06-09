@@ -24,6 +24,9 @@ export default function index({data}) {
 }
 
 // this query is found upstairs as a pros, the "data" I logged gives this siteInfo object
+//this is a page query,
+//cannot be done with components like navbar or layout.js
+//for that, we need static query
 
 export const query= graphql`
 query SiteInfo {
