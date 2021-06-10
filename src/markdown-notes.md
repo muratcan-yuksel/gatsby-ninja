@@ -43,3 +43,4 @@ Image optimization
     }
   }
 }
+----> stopped at lesson 18 tamplate components, can start from there
