@@ -35,7 +35,7 @@ export default function portfolio({data}) {
 // export page query
 export const query= graphql`
 query ProjectsPage {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: {fields: frontmatter___title, order: ASC}) {
       nodes {
         frontmatter {
           slug
@@ -46,4 +46,5 @@ query ProjectsPage {
       }
     }
   }
+  
 `
