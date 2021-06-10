@@ -43,4 +43,3 @@ Image optimization
     }
   }
 }
-----> skipped lesson 15 multiple queries, and I guess that's why I got an error on lesson 17 featured images. Then I skipped all of the remanining courses, because I think that's enough for now. If I ever decide to complete it, I should go back and start from lesson 15
